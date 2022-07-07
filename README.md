@@ -5,7 +5,7 @@
 <img src="https://komarev.com/ghpvc/?username=shibinshibu01&theme=dracula"/ align="left">
 </p>
 <hr>
-<p>I'm Shibin Shibu! I'm a B.Tech Undergrad pursuing Computer Science Engineering at Mar Baselios College of Engineering and Technology, Thiruvananthapuram.</p>
+<p>I'm <B>Shibin Shibu</B>, a student at <b>Mar Baselios College of Engineering and Technology</b> in Thiruvananthapuram pursuing <b>Computer Science and Engineering</b>. Using Figma and After Effects, I'm a <b>mediocre graphic designer and video editor</b>.</p> <p> Currently, becoming a <b>full-stack developer</b> is my goal. I'm now trying to learn front-end development. So I'm playing around with <b>HTML, CSS,</b> and <b>JS</b>. Additionally, I enjoy <b>event management, logic development, critical thinking, problem-solving,</b> and many other things. By participating in numerous community events and activities, I hope to increase my visibility in the tech communities.</p><p>I volunteer for a few events hosted by the Google Developer Student Clubs of Mar Baselios College of Engineering and Technology in addition to being a core member of several technical organizations in my college, like IEEE SB MBCET, Catalyst Mar Baselios IEDC, Computer Society of India, and others.</p>
 
 <div align="center">
   <h3>GitHub Trophies🏆</h3>
