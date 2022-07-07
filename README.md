@@ -39,11 +39,11 @@
 <hr>
 <img src="https://activity-graph.herokuapp.com/graph?username=shibinshibu01&theme=dracula"/>
 <hr>
-<img align="center" src="https://raw.githubusercontent.com/kesiajo/kesiajo/main/images/tenor.gif"/>
+<img align="right" src="https://raw.githubusercontent.com/kesiajo/kesiajo/main/images/tenor.gif"/>
 
-<h2 align="center">Let's Connect!🤝</h2> 
+<h2 align="left">Let's Connect!🤝</h2> 
 
-<p align="center">
+<p align="left">
 <a href="https://linkedin.com/in/shibinshibu01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shibinshibu01" height="30" width="40" /></a>
 <a href="https://github.com/shibinshibu01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="shibinshibu01" height="30" width="40" /></a>
 <a href="https://twitter.com/shibinshibu01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shibinshibu01" height="30" width="40" /></a>
