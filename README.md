@@ -7,14 +7,14 @@
 <hr>
 <p>I'm Shibin Shibu! I'm a B.Tech Undergrad pursuing Computer Science Engineering at Mar Baselios College of Engineering and Technology, Thiruvananthapuram.</p>
 
-<details align="left">
+<div align="center">
   <summary>GitHub Trophies🏆</summary>
-<p align="left">
+  <br>
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
     <img src="https://github-profile-trophy.vercel.app/?username=shibinshibu01&theme=dracula"/>
   </a>
 </p>
-</details>
 <hr>
 <h3 align="center">My Tech Stacks👇</h3>
 <p align="center"> 
