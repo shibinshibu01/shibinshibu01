@@ -1,11 +1,11 @@
 <img src="/media/GitBanner.png">
-<h1 align="center">Hello World👋, I'm Shibin Shibu!</h1>
+<h1 align="center">Hello World!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40"></h1>
 <p align="center">
 <a href="https://shibinshibu01.bio.link/">-About Me-</a><br>
 <img src="https://komarev.com/ghpvc/?username=shibinshibu01&theme=dracula"/ align="left">
 </p>
 <hr>
-<p>I'm a B.Tech Undergrad pursuing Computer Science Engineering at Mar Baselios College of Engineering and Technology, Thiruvananthapuram.</p>
+<p>I'm Shibin Shibu! I'm a B.Tech Undergrad pursuing Computer Science Engineering at Mar Baselios College of Engineering and Technology, Thiruvananthapuram.</p>
 
 <details align="left">
   <summary>GitHub Trophies🏆</summary>
@@ -15,23 +15,8 @@
   </a>
 </p>
 </details>
-
-<h2 align="center">Let's Connect!</h2> 
-
-<p align="center">
-<a href="https://linkedin.com/in/shibinshibu01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shibinshibu01" height="30" width="40" /></a>
-<a href="https://github.com/shibinshibu01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="shibinshibu01" height="30" width="40" /></a>
-<a href="https://twitter.com/shibinshibu01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shibinshibu01" height="30" width="40" /></a>
-<a href="https://instagram.com/shibinshibu01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shibinshibu01" height="30" width="40" /></a>
-<br>
-<br>
-<a href="https://wa.me/+917736058923" target="_blank">
-<img alt="LinkedIn" src="https://img.shields.io/badge/whatsapp%20-%730077B5.svg?&style=for-the-badge&logo=whatsapp&logoColor=white"/>
-<a href="mailto:shibinsb01@gmail.com">
-<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</p> 
 <hr>
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">My Tech Stacks👇</h3>
 <p align="center"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
@@ -55,3 +40,17 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=shibinshibu01&theme=dracula"/>
 <hr>
 <img align="center" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif"/>
+<h2 align="center">Let's Connect!🤝</h2> 
+
+<p align="center">
+<a href="https://linkedin.com/in/shibinshibu01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shibinshibu01" height="30" width="40" /></a>
+<a href="https://github.com/shibinshibu01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="shibinshibu01" height="30" width="40" /></a>
+<a href="https://twitter.com/shibinshibu01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shibinshibu01" height="30" width="40" /></a>
+<a href="https://instagram.com/shibinshibu01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shibinshibu01" height="30" width="40" /></a>
+<br>
+<br>
+<a href="https://wa.me/+917736058923" target="_blank">
+<img alt="LinkedIn" src="https://img.shields.io/badge/whatsapp%20-%730077B5.svg?&style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<a href="mailto:shibinsb01@gmail.com">
+<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</p> 
