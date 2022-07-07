@@ -1,17 +1,17 @@
-<img src="/Banner.png">
-<h1 align="center">Hello👋, I'm Shibin Shibu!</h1>
+<img src="/media/GitBanner.png">
+<h1 align="center">Hello World👋, I'm Shibin Shibu!</h1>
 <p align="center">
 <a href="https://shibinshibu01.bio.link/">-About Me-</a><br>
-<img src="https://komarev.com/ghpvc/?username=shibinshibu01&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=shibinshibu01&theme=dracula"/ align="left">
 </p>
-
+<hr>
 <p>I'm a B.Tech Undergrad pursuing Computer Science Engineering at Mar Baselios College of Engineering and Technology, Thiruvananthapuram.</p>
 
-<details align="center">
+<details align="left">
   <summary>GitHub Trophies🏆</summary>
-<p align="center">
+<p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=shibinshibu01&theme=discord"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=shibinshibu01&theme=dracula"/>
   </a>
 </p>
 </details>
@@ -34,13 +34,9 @@
 <a href="mailto:shibinsb01@gmail.com">
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </p> 
-
 <hr>
-
-<div align = "center">
-
-![Shibin's Github Status](https://github-readme-stats.vercel.app/api?username=shibinshibu01&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
-
+<div align = "left">
+<img src="https://github-readme-stats.vercel.app/api?username=shibinshibu01&show_icons=true&t&theme=dracula"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shibinshibu01&theme=dracula"/>
 <hr>
-
-[![Shibin's github activity graph](https://activity-graph.herokuapp.com/graph?username=shibinshibu01&theme=xcode)](https://github.com/RiyaMathew-11)
+<img src="https://activity-graph.herokuapp.com/graph?username=shibinshibu01&theme=dracula"/>
