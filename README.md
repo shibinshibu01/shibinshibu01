@@ -8,7 +8,7 @@
 <p>I'm Shibin Shibu! I'm a B.Tech Undergrad pursuing Computer Science Engineering at Mar Baselios College of Engineering and Technology, Thiruvananthapuram.</p>
 
 <div align="center">
-  <summary>GitHub Trophies🏆</summary>
+  <h3>GitHub Trophies🏆</h3>
   <br>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
