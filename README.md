@@ -3,7 +3,18 @@
 <p align="center">
 <a href="https://shibinshibu01.bio.link/">-About Me-</a>
 </p>
+
 <p>I'm a B.Tech Undergrad pursuing Computer Science Engineering at Mar Baselios College of Engineering and Technology, Thiruvananthapuram.</p>
+
+<details align="center">
+  <summary>GitHub Trophies 🏆</summary>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=shibinshibu01&theme=gruvbox"/>
+  </a>
+</p>
+</details>
+
 <h2 align="center">Let's Connect!</h2> 
 
 <p align="center">
