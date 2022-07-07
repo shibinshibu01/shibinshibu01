@@ -39,7 +39,8 @@
 <hr>
 <img src="https://activity-graph.herokuapp.com/graph?username=shibinshibu01&theme=dracula"/>
 <hr>
-<img align="center" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif"/>
+<img align="center" src="https://raw.githubusercontent.com/kesiajo/kesiajo/main/images/tenor.gif"/>
+
 <h2 align="center">Let's Connect!🤝</h2> 
 
 <p align="center">
