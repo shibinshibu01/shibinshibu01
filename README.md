@@ -34,7 +34,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shibinshibu01&theme=dracula" alt="shibinshibu01"/>
 <br>
 <div align = "center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/layout=compact/?username=shibinshibu01&theme=dracula"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shibinshibu01&theme=dracula"/>
 <hr>
 <img src="https://activity-graph.herokuapp.com/graph?username=shibinshibu01&theme=dracula"/>
 <hr>
