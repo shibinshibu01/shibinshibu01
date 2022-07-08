@@ -11,7 +11,7 @@
   <h3>GitHub Trophies🏆</h3>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=shibinshibu01&theme=narutodark"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=shibinshibu01&theme=naruto"/>
   </a>
 </p>
 <hr>
