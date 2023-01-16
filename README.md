@@ -36,7 +36,9 @@
 <div align = "center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shibinshibu01&theme=dracula"/>
 <hr>
-<img src="https://activity-graph.herokuapp.com/graph?username=shibinshibu01&theme=dracula"/>
+
+[![Shibin Shibu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=shibinshibu01&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <hr>
 <img align="right" src="https://raw.githubusercontent.com/kesiajo/kesiajo/main/images/tenor.gif"/>
 
