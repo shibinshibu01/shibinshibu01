@@ -2,7 +2,7 @@
 <h1 align="center">Hello World!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40"></h1>
 <p align="center">
 <a href="https://shibinshibu01.bio.link/">-About Me-</a><br>
-<img src="https://komarev.com/ghpvc/?username=shibinshibu01&theme=dracula"/ align="left">
+<img src="https://komarev.com/ghpvc/?username=shibinshibu01&theme=merko"/ align="left">
 </p>
 <hr>
 <p>I'm <B>Shibin Shibu</B>, a student at <b>Mar Baselios College of Engineering and Technology</b> in Thiruvananthapuram pursuing <b>Computer Science and Engineering</b>. Using Figma and After Effects, I'm a <b>mediocre graphic designer and video editor</b>.</p> <p> Currently, becoming a <b>full-stack developer</b> is my goal. I'm now trying to learn front-end development. So I'm playing around with <b>HTML, CSS,</b> and <b>JS</b>. Additionally, I enjoy <b>event management, logic development, critical thinking, problem-solving,</b> and many other things. By participating in numerous community events and activities, I hope to increase my visibility in the tech communities.</p><p>I volunteer for a few events hosted by the Google Developer Student Clubs of Mar Baselios College of Engineering and Technology in addition to being a execom member of several technical organizations in my college, like IEEE SB MBCET, Catalyst Mar Baselios IEDC, Computer Society of India, and others.</p>
@@ -11,7 +11,7 @@
   <h3>GitHub Trophies🏆</h3>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=shibinshibu01&theme=dracula"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=shibinshibu01&theme=merko"/>
   </a>
 </p>
 <hr>
@@ -28,15 +28,15 @@
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> </p>
 <hr>
 <div align = "center">
-<img src="https://github-readme-stats.vercel.app/api?username=shibinshibu01&show_icons=true&theme=dracula"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shibinshibu01&show_icons=true&theme=merko"/>
 <br>
 <div align = "center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shibinshibu01&theme=dracula" alt="shibinshibu01"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shibinshibu01&theme=merko" alt="shibinshibu01"/>
 <br>
 <div align = "center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shibinshibu01&theme=dracula"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shibinshibu01&theme=merko"/>
 <hr>
-<img src="https://activity-graph.herokuapp.com/graph?username=shibinshibu01&theme=dracula"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=shibinshibu01&theme=merko"/>
 <hr>
 <img align="right" src="https://raw.githubusercontent.com/kesiajo/kesiajo/main/images/tenor.gif"/>
 
