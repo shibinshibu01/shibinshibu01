@@ -2,7 +2,7 @@
 <h1 align="center">Hello World!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40"></h1>
 <p align="center">
 <a href="https://shibinshibu01.bio.link/">-About Me-</a><br>
-<img src="https://komarev.com/ghpvc/?username=shibinshibu01&theme=dracula"/ align="left">
+<img src="https://komarev.com/ghpvc/?username=shibinshibu01&theme=blue-green"/ align="left">
 </p>
 <hr>
 <p>I'm <B>Shibin Shibu</B>, a student at <b>Mar Baselios College of Engineering and Technology</b> in Thiruvananthapuram pursuing <b>Computer Science and Engineering</b>. Using Figma and After Effects, I'm a <b>mediocre graphic designer and video editor</b>.</p> <p> Currently, becoming a <b>full-stack developer</b> is my goal. I'm now trying to learn front-end development. So I'm playing around with <b>HTML, CSS,</b> and <b>JS</b>. Additionally, I enjoy <b>event management, logic development, critical thinking, problem-solving,</b> and many other things. By participating in numerous community events and activities, I hope to increase my visibility in the tech communities.</p><p>I volunteer for a few events hosted by the Google Developer Student Clubs of Mar Baselios College of Engineering and Technology in addition to being a execom member of several technical organizations in my college, like IEEE SB MBCET, Catalyst Mar Baselios IEDC, Computer Society of India, and others.</p>
