@@ -11,7 +11,7 @@
   <h3>GitHub Trophies🏆</h3>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=shibinshibu01&theme=merko"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=shibinshibu01&theme=dracula"/>
   </a>
 </p>
 <hr>
@@ -28,15 +28,15 @@
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> </p>
 <hr>
 <div align = "center">
-<img src="https://github-readme-stats.vercel.app/api?username=shibinshibu01&show_icons=true&theme=merko"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shibinshibu01&show_icons=true&theme=dracula"/>
 <br>
 <div align = "center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shibinshibu01&theme=merko" alt="shibinshibu01"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shibinshibu01&theme=dracula" alt="shibinshibu01"/>
 <br>
 <div align = "center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shibinshibu01&theme=merko"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shibinshibu01&theme=dracula"/>
 <hr>
-<img src="https://activity-graph.herokuapp.com/graph?username=shibinshibu01&theme=merko"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=shibinshibu01&theme=dracula"/>
 <hr>
 <img align="right" src="https://raw.githubusercontent.com/kesiajo/kesiajo/main/images/tenor.gif"/>
 
