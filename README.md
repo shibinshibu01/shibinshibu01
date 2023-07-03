@@ -1,6 +1,6 @@
 <h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40"></h1>
 <p align="center">
-  <img src="/media/GitBanner.png">
+  <img src="/media/Git-Banner.png">
 </p>
 <hr>
 <p align="center">
