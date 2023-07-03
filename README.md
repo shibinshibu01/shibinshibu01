@@ -4,12 +4,12 @@
 </p>
 <hr>
 <p align="center">
-  <a href="https://shibinshibu01.bio.link/">-About Me-</a>
+  <a href="https://shibinshibu01.bio.link/">Know More</a>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=shibinshibu01&theme=blue-green"/>
 </p>
 <hr>
 <h2>About Me</h2>
+<img src="https://komarev.com/ghpvc/?username=shibinshibu01&theme=blue-green"/>
 <p>
   Hi there! I'm Shibin Shibu, a Computer Science and Engineering student at Mar Baselios College of Engineering and Technology in Thiruvananthapuram. I'm passionate about graphic design, video editing, and becoming a full-stack developer. Currently, I'm focused on learning front-end development using HTML, CSS, and JS. I also enjoy event management, logic development, critical thinking, and problem-solving.
 </p>
@@ -49,34 +49,34 @@
 </p>
 <hr>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shibinshibu01&show_icons=true&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shibinshibu01&show_icons=true&theme=vue-dark"/>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shibinshibu01&theme=dracula" alt="shibinshibu01"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shibinshibu01&theme=vue-dark" alt="shibinshibu01"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shibinshibu01&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shibinshibu01&theme=vue-dark"/>
 </div>
 <div align="center">
   <h2>Let's Connect! 🤝</h2>
   <p>
     <a href="https://linkedin.com/in/shibinshibu01" target="blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shibinshibu01" height="30" width="40" />
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shibinshibu01" height="30" width="40">
     </a>
     <a href="https://github.com/shibinshibu01" target="blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="shibinshibu01" height="30" width="40" />
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="shibinshibu01" height="30" width="40">
     </a>
     <a href="https://twitter.com/shibinshibu01" target="blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shibinshibu01" height="30" width="40" />
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shibinshibu01" height="30" width="40">
     </a>
     <a href="https://instagram.com/shibinshibu01" target="blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shibinshibu01" height="30" width="40" />
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shibinshibu01" height="30" width="40">
     </a>
     <br>
     <br>
     <a href="https://wa.me/+917736058923" target="_blank">
-      <img alt="LinkedIn" src="https://img.shields.io/badge/whatsapp%20-%730077B5.svg?&style=for-the-badge&logo=whatsapp&logoColor=white"/>
+      <img alt="WhatsApp" src="https://img.shields.io/badge/whatsapp%20-%230077B5.svg?&style=for-the-badge&logo=whatsapp&logoColor=white">
     </a>
     <a href="mailto:shibinsb01@gmail.com">
-      <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
   </p>
 </div>
