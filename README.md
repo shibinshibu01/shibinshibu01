@@ -54,7 +54,6 @@
 </div>
 <div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shibinshibu01&theme=vue-dark" alt="shibinshibu01"/>
-  <br><hr>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shibinshibu01&theme=vue-dark"/>
   <hr>
 </div>
