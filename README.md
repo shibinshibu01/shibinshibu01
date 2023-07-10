@@ -52,7 +52,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shibinshibu01&theme=vue-dark"/>
   <br><hr>
 </div>
-<div align="left">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shibinshibu01&theme=vue-dark" alt="shibinshibu01"/>
   <img src="https://github-readme-stats.vercel.app/api?username=shibinshibu01&show_icons=true&theme=vue-dark"/>  
   <hr>
