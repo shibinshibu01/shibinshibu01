@@ -4,7 +4,7 @@
 </p>
 <hr>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shibinshibu01&show_icons=true&theme=vue-dark"/>  
+  <img src="https://github-readme-stats.vercel.app/api?username=shibinshibu01&show_icons=true&theme=vue-dark"/><br>
   <a href="https://shibinshibu01.bio.link/">Know More</a>
   <br>
 </p>
