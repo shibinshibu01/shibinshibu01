@@ -19,7 +19,7 @@
 </p>
 <hr>
 <h2>Tech Stacks</h2>
-<p align="center">
+<p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a>
@@ -48,8 +48,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
   </a>
 </p>
-<hr>
-<div align="center">
+<div align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shibinshibu01&theme=vue-dark"/>
   <br><hr>
 </div>
