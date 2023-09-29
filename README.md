@@ -11,6 +11,7 @@
 <hr>
 <h2>About Me</h2>
 <img src="https://visitcount.itsvg.in/api?id=shibinshibu01&icon=2&color=3"/>
+<img src="https://visitcount.itsvg.in/api?id=shibinshibu01&icon=2&color=3"/>
 <p>
   Hi there! I'm Shibin Shibu, a Computer Science and Engineering student at Mar Baselios College of Engineering and Technology in Thiruvananthapuram. I'm passionate about graphic design, video editing, and becoming a full-stack developer. Currently, I'm focused on learning front-end development using HTML, CSS, and JS. I also enjoy event management, logic development, critical thinking, and problem-solving.
 </p>
