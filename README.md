@@ -10,7 +10,7 @@
 </p>
 <hr>
 <h2>About Me</h2>
-<img src="https://komarev.com/ghpvc/?username=shibinshibu01&theme=blue-green"/>
+<img src="https://visitcount.itsvg.in/api?id=shibinshibu01&icon=2&color=3"/>
 <p>
   Hi there! I'm Shibin Shibu, a Computer Science and Engineering student at Mar Baselios College of Engineering and Technology in Thiruvananthapuram. I'm passionate about graphic design, video editing, and becoming a full-stack developer. Currently, I'm focused on learning front-end development using HTML, CSS, and JS. I also enjoy event management, logic development, critical thinking, and problem-solving.
 </p>
@@ -32,6 +32,9 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a>
+  <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/adobe_aftereffects/adobe_aftereffectsr-icon.svg" alt="aftereffects" width="40" height="40"/>
+  </a>
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
   </a>
@@ -41,11 +44,11 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
+  <a href="https://www.w3.org/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
   </a>
 </p>
 <div align="left">
