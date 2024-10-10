@@ -85,5 +85,4 @@
     </a>
   </p>
 </div>
-<img src='https://randommeme-five.vercel.app/' alt="Random Meme" width="100%"/>
 
