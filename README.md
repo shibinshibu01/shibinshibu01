@@ -57,7 +57,7 @@
     <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white" alt="Adobe Photoshop" height="40"/> 
     <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" height="40"/>
 </p>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shibinshibu01&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/shibinshibu01)
 ---
 
 [![Shibin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shibinshibu01&theme=gruvbox)](https://github.com/ashutosh00710/github-readme-activity-graph)
